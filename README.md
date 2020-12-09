@@ -1,1 +1,1 @@
-# TheSparkFoundationInternship
+# TheSparksFoundationInternship
